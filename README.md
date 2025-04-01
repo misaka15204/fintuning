@@ -1,4 +1,8 @@
-## fine-tuning on LLaMA2-7B
+## fine-tuning result on LLaMA2-7B
+
+### casual analysis on fine-tuned LLaMA2-7B
+
+<img src="causal_llama.png" width="400" />
 
 | **Method/Task**          | *CC1* | *CC2* | *CC4*  | *CC10* |
 |--------------------------|------|------|-------|-------|
