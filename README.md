@@ -11,6 +11,8 @@
     <img src="target.png" width="17%">
 </p>
 
+### ablation result
+
 | **Method/Task**          | *CC1* | *CC2* | *CC4*  | *CC10* |
 |--------------------------|------|------|-------|-------|
 | **Baseline**             | 100  | 100  | 100 | 97.27 |
