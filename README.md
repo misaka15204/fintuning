@@ -4,6 +4,13 @@
 
 <img src="causal_llama.png" width="400" />
 
+### detection head and target head attention pattern on (head 24, layer 9) and (head 7, layer 21)
+
+<p>
+    <img src="detection.png" width="17%">
+    <img src="target.png" width="17%">
+</p>
+
 | **Method/Task**          | *CC1* | *CC2* | *CC4*  | *CC10* |
 |--------------------------|------|------|-------|-------|
 | **Baseline**             | 100  | 100  | 100 | 97.27 |
